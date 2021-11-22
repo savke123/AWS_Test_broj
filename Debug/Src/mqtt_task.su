@@ -1,0 +1,4 @@
+mqtt_task.c:113:6:MqttMessageArrived	16	static
+mqtt_task.c:37:6:MqttClientPubTask	48	static
+mqtt_task.c:65:5:MqttConnectBroker	112	static
+mqtt_task.c:15:6:MqttClientSubTask	8	static
